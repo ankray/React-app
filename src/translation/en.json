@@ -1,0 +1,8 @@
+{
+  "demo": {
+    "test_string": "Test String",
+    "hello_ref": "Hello",
+    "info_message": "Information Message",
+    "welcome_to_react": "Welcome to React"
+  }
+}
